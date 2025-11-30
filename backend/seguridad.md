@@ -1,3 +1,5 @@
 
-Soy seguridad.md pero estoy cambiado para ver si sale mal el merge con la otra rama soy la de back end
+
+Soy seguridad.md pero  soy la que esta en la rama de back end
+>>>>>>> rama-backend
 >>>>>>> rama-backend
