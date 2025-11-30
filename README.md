@@ -7,7 +7,7 @@ como en el backend (la lógica del servidor, incluyendo bases de datos y lenguaj
 Autor: David Blanco Martín
 Fecha: 24/11/2025
 
-## Frontend
+## Tabla de contenidos
 
 - [HTML Básico](frontend/html-basico.md)
 - [CSS Avanzado](frontend/css-avanzado.md)
