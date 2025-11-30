@@ -1,0 +1,13 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Backups
+*~
+*.bak
+
+# Carpeta temporal
+/temp/
+
+# Logs
+*.log
