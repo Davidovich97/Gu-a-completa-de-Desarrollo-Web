@@ -1,1 +1,3 @@
-Soy seguridad.md y he cambiado para dar error en el merge
+
+Soy seguridad.md pero estoy cambiado para ver si sale mal el merge con la otra rama
+>>>>>>> rama-backend
